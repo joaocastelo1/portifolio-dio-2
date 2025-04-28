@@ -20,7 +20,7 @@ Construir seu Primeiro Portfólio Front-end do Zero.
 
 <br>
 
-[Clique aqui](https://projeto-site-discord-css.vercel.app/) para conferir o resultado da landing page criada!
+[Clique aqui](https://vercel.com/joao-castelos-projects/portifolio-dio-2) para conferir o resultado da landing page criada!
 
 <br>
 
